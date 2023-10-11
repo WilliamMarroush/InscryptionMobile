@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cm1ucqrltqpl6"]
+
+[node name="GameBoard" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+offset_left = 419.0
+offset_top = 322.0
+offset_right = 639.0
+offset_bottom = 353.0
+scale = Vector2(1.63585, 1.66033)
+text = "Great! You changed scenes!"
